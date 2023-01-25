@@ -1,0 +1,13 @@
+{
+  "readKey": "read-key",
+  "writeKey": "write-key",
+
+  "upload": {  
+    "type": "md",
+    "files": "doc/orafce_documentation/Orafce_Documentation_01.md"         
+  },
+  
+  "download": {
+    "files": "doc/orafce_documentation/Orafce_Documentation_${lang}_01.md"
+  }
+}
