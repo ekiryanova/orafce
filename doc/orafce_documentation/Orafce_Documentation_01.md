@@ -69,6 +69,8 @@ The table below lists features compatible with Oracle databases.
 
  - Date/time functions
 
+
+
 |Item|Overview|
 |:---|:---|
 |ADD_MONTHS|Adds months to a date|
