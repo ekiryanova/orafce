@@ -3,7 +3,7 @@
   "writeKey": "write-key",
 
   "upload": {  
-    "type": "md",
+    "type": "text",
     "files": "doc/orafce_documentation/Orafce_Documentation_01.md"         
   },
   
