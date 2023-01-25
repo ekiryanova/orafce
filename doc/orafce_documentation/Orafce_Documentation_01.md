@@ -16,7 +16,6 @@ These features enable you to easily migrate to PostgreSQL and reduce the costs o
 The table below lists features compatible with Oracle databases.
 
 
-
 ### 1.1 Features compatible with Oracle databases
 
 **Data type**
